@@ -5,3 +5,9 @@ func addingfunc () {
 
 
 }
+
+
+
+func suntract (){
+
+}
